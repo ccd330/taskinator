@@ -1,6 +1,3 @@
-# taskinator
-https://ccd330.github.io/taskinator/
-
 # Taskinator
 
   
@@ -21,7 +18,7 @@ https://ccd330.github.io/taskinator/
   ## Description
   This project is a task-tracker application that allows users to keep track of daily tasks. It has been configured using HTML, CSS, JavaScript, and Web APIs.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/taskinator/blob/main/assets/images/demo.png" />
 
   ## Installation Instructions
   N/A
